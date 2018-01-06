@@ -31,6 +31,7 @@ CC0
 * [CitybikesOSM](http://javnik.tk/CitybikesOSM/citybikes.html) - Global QA tool for non-Nextbike bicycle sharing systems that are accessible from CityBikes API.
 * Norbert Renner:
     * [BBox tool](http://norbertrenner.de/osm/bbox.html) - Easy usable tool for selecting bbox with multiple output formats.
+* [Maputnik](https://github.com/maputnik/editor) - Live [Mapbox GL-style](https://www.mapbox.com/mapbox-gl-js/api/) editor. ([Gitlink](https://github.com/maputnik/editor))
 
 ## Dev Center
 
