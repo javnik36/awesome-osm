@@ -20,6 +20,10 @@ CC0
 * [OpenStreetMap Analytic Difference Engine](https://github.com/MichaelVL/osm-analytic-tracker) - Live analytic engine that looks for local changes from osm api. With full-site usages:
     * [Danish instance](http://osm.expandable.dk/)
     * [Franken(german region) instance](http://osmantra.poempelfox.de/)
+* [OSMvis](https://github.com/mocnik-science/osm-vis) - Collection of visualization made on base of OSM. 2 usages(same data):
+    * [Uni Heidelberg hosted](http://osm-vis.geog.uni-heidelberg.de/)
+    * [Selfhosted](http://projects.mocnik-science.net/osm-vis/)
+* [OSM History by PeWu](https://github.com/PeWu/osm-history) - sible, but powerful history viewer, with link to other history-viewers. ([Full-site link](https://pewu.github.io/osm-history/#/))
 
 ## Full-site projects
 
