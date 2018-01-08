@@ -35,6 +35,7 @@ CC0
 * [CitybikesOSM](http://javnik.tk/CitybikesOSM/citybikes.html) - Global QA tool for non-Nextbike bicycle sharing systems that are accessible from CityBikes API.
 * Norbert Renner:
     * [BBox tool](http://norbertrenner.de/osm/bbox.html) - Easy usable tool for selecting bbox with multiple output formats.
+* [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services. 
 * [Maputnik](https://github.com/maputnik/editor) - Live [Mapbox GL-style](https://www.mapbox.com/mapbox-gl-js/api/) editor. ([Gitlink](https://github.com/maputnik/editor))
 
 ## Dev Center
@@ -44,6 +45,8 @@ CC0
 * [Folium](https://github.com/python-visualization/folium) - Package from creating Leaflet maps from python code.
 * [OsmApi](https://github.com/metaodi/osmapi) - Python OSM Api wrapper package.
 * [Osmcha](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
+* [OpenMapTiles Tools](https://github.com/openmaptiles/openmaptiles-tools) - Tool for generating TM2Source projects, imposm3 mappings and SQL instructions from OpenMapTiles .
+* [OSMNames](https://github.com/OSMNames/OSMNames) - Geocoding tool with rank based on related Wikipedia page popularity.
 
 ### Python 2.x.x only
 * [Imposm](https://github.com/omniscale/imposm-parser) - Parser for .osm/.pbf data.
